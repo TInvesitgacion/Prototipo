@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BibliotecaUTP.Master"
+             xmlns:vm="clr-namespace:BibliotecaUTP.Models"
+             Title="Master">
+    <ContentPage.Content>
+        <StackLayout Margin="30">
+
+            <Label Text="Campo" TextColor="#B81F33"/>
+            <Picker x:Name="pckCampo" HorizontalOptions="FillAndExpand" FontSize="15" >
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type vm:PickerValue}" >
+                        <vm:PickerValue key="" value="Todos los campos" />
+                        <vm:PickerValue key="ti" value="Título" />
+                        <vm:PickerValue key="au" value="Autor" />
+                        <vm:PickerValue key="su" value="Tema" />
+                        <vm:PickerValue key="se" value="Serie" />
+                        <vm:PickerValue key="callnum" value="Cod.Clasificación" />
+                    </x:Array>
+                </Picker.ItemsSource>
+                <Picker.ItemDisplayBinding>
+                    <Binding Path="value" />
+                </Picker.ItemDisplayBinding>
+                <Picker.SelectedIndex>0</Picker.SelectedIndex>
+            </Picker>
+
+            <Label Text="Sede" TextColor="#B81F33"/>
+            <Picker x:Name="pckSede" HorizontalOptions="FillAndExpand" FontSize="15" >
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type vm:PickerValue}" >
+                        <vm:PickerValue key="" value="Todas las bibliotecas" />
+                        <vm:PickerValue key="holdingbranch:B00" value="Biblioteca Virtual" />
+                        <vm:PickerValue key="holdingbranch:B02" value="Administración" />
+                        <vm:PickerValue key="holdingbranch:B10" value="Ate" />
+                        <vm:PickerValue key="holdingbranch:B01" value="Central" />
+                        <vm:PickerValue key="holdingbranch:B03" value="Derecho" />
+                        <vm:PickerValue key="holdingbranch:B07" value="Lima Norte" />
+                        <vm:PickerValue key="holdingbranch:B09" value="Lima SJL" />
+                        <vm:PickerValue key="holdingbranch:B11" value="Lima Sur" />
+                        <vm:PickerValue key="holdingbranch:B05" value="Postgrado" />
+                        <vm:PickerValue key="holdingbranch:B08" value="Campus Arequipa" />
+                        <vm:PickerValue key="holdingbranch:B06" value="Campus Chiclayo" />
+                        <vm:PickerValue key="holdingbranch:B14" value="Campus Chimbote" />
+                        <vm:PickerValue key="holdingbranch:B15" value="Campus Huancayo" />
+                        <vm:PickerValue key="holdingbranch:B16" value="Campus Ica" />
+                        <vm:PickerValue key="holdingbranch:B13" value="Campus Piura" />
+                        <vm:PickerValue key="holdingbranch:B12" value="Campus Trujillo" />
+                    </x:Array>
+                </Picker.ItemsSource>
+                <Picker.ItemDisplayBinding>
+                    <Binding Path="value" />
+                </Picker.ItemDisplayBinding>
+                <Picker.SelectedIndex>0</Picker.SelectedIndex>
+            </Picker>
+            
+            <Label Text="Tipo" TextColor="#B81F33"/>
+            <Picker x:Name="pckTipo" HorizontalOptions="FillAndExpand" FontSize="15" >
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type vm:PickerValue}" >
+                        <vm:PickerValue key="" value="Todos los tipos" />
+                        <vm:PickerValue key="mc-itype:HBOOK" value="Handbook" />
+                        <vm:PickerValue key="mc-itype:LIBR" value="Libro" />
+                        <vm:PickerValue key="mc-itype:EBOOK" value="Libro Electrónico" />
+                        <vm:PickerValue key="mc-itype:PLNE" value="Plan de Negocios" />
+                        <vm:PickerValue key="mc-itype:PROP" value="Proyecto Profesional" />
+                        <vm:PickerValue key="mc-itype:AREV" value="Artículo de Revista" />
+                        <vm:PickerValue key="mc-itype:REVI" value="Revista" />
+                        <vm:PickerValue key="mc-itype:SOEX" value="Sustentación oral de expedientes" />
+                        <vm:PickerValue key="mc-itype:TESN" value="Tesina" />
+                        <vm:PickerValue key="mc-itype:TESI" value="Tesis" />
+                        <vm:PickerValue key="mc-itype:TINV" value="Trabajo de Investigación" />
+                        <vm:PickerValue key="mc-itype:TSPR" value="Trabajo de Suficiencia Profesional" />
+                    </x:Array>
+                </Picker.ItemsSource>
+                <Picker.ItemDisplayBinding>
+                    <Binding Path="value" />
+                </Picker.ItemDisplayBinding>
+                <Picker.SelectedIndex>0</Picker.SelectedIndex>
+            </Picker>
+            
+            
+            <Label Text="Busqueda" TextColor="#B81F33" />
+            <Editor x:Name="txtBusqueda" Placeholder="Escriba el término de búsqueda" HorizontalOptions="FillAndExpand" HeightRequest="40" FontSize="15"/>
+            
+            <Button Text="BUSCAR" BackgroundColor="#B81F33" TextColor="White" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

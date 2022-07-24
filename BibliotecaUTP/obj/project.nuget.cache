@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ntB6ShgXjD4mMSWK/miR/bfP0/iJYV/QjUZbSx10HRWfNltnZc38J/lUGZ9BMy9B4jYICOYy1wpOEQyjWvmgTw==",
+  "success": true,
+  "projectFilePath": "E:\\E\\3. UTP\\2022-2-MAR\\TallerInvestigacion\\Dev\\HitGub\\BibliotecaUTP\\BibliotecaUTP\\BibliotecaUTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

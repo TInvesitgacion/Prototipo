@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJ9te6VGodQFbtlJ2fhO803YxfKZ9HBRHTXrDEo/Wn2iuBE+vD3AYTJfK4FiE2TpHWgj7/x3+dgCfb1DSWYjfw==",
+  "success": true,
+  "projectFilePath": "E:\\E\\3. UTP\\2022-2-MAR\\TallerInvestigacion\\Dev\\HitGub\\BibliotecaUTP\\BibliotecaUTP.iOS\\BibliotecaUTP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

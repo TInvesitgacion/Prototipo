@@ -1,0 +1,74 @@
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfo.cs
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.deps.json
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.dll
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.pdb
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.dll
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\refint\BibliotecaUTP.dll
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.pdb
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\ref\BibliotecaUTP.dll
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.CopyLocal.cache
+C:\Users\user\source\repos\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.RuntimeCopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.AssemblyReference.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Master.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfoInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfo.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.CoreCompileInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.CopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.RuntimeCopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\refint\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.deps.json
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\XamlC.stamp
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\ref\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.deps.json
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.AssemblyReference.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Master.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfoInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfo.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.CoreCompileInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.CopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.RuntimeCopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\XamlC.stamp
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\refint\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\Codigo\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\ref\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.deps.json
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\bin\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.AssemblyReference.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\Master.xaml.g.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfoInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.AssemblyInfo.cs
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.CoreCompileInputs.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.CopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.csproj.Fody.RuntimeCopyLocal.cache
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\XamlC.stamp
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\refint\BibliotecaUTP.dll
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\BibliotecaUTP.pdb
+E:\E\3. UTP\2022-2-MAR\TallerInvestigacion\Dev\HitGub\BibliotecaUTP\BibliotecaUTP\obj\Debug\netstandard2.0\ref\BibliotecaUTP.dll

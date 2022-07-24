@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BibliotecaUTP.Detail">
+    <StackLayout>
+        <CollectionView ItemsSource="{Binding documentos}"
+                        SelectionMode="Single"
+                        SelectionChanged="OnSelectionChanged"
+                        Margin="0, 15">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10"
+                          RowDefinitions="Auto, *"
+                          ColumnDefinitions="Auto, *">
+                        <Frame BorderColor="Gray"
+                               Padding="5, 1"
+                               Grid.RowSpan="2">
+                            <Image 
+                               Source="{Binding Imagen}"
+                               Aspect="AspectFit"
+                               HeightRequest="80"
+                               WidthRequest="80" />
+                        </Frame>
+
+                        <Label Grid.Column="1"
+                               Text="{Binding Titulo}"
+                               FontAttributes="Bold"
+                               FontSize="Caption"
+                               HeightRequest="65"/>
+                        <Label Grid.Row="1"
+                               Grid.Column="1"
+                               Text="{Binding Descripcion}"
+                               VerticalOptions="End"
+                               FontSize="Body"/>
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Frame BackgroundColor="#B81F33"
+               HasShadow="False" >
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="Center">
+                <ImageButton x:Name="btnLeft" Source="left.png" BackgroundColor="Transparent" WidthRequest="20" Clicked="btnLeft_Clicked" />
+                <Editor x:Name="txtPage" Text="{Binding NumPage}" WidthRequest="40" TextColor="White" Keyboard="Numeric" Unfocused="txtPage_Unfocused" />
+                <ImageButton x:Name="btnRight" Source="right.png" BackgroundColor="Transparent" WidthRequest="20"  Clicked="btnRight_Clicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>
